@@ -39,6 +39,11 @@ Create `.env` file inside `server` folder:
 SECRET_KEY=your_32_byte_secret_key_here
 IV=your_16_byte_iv_here
 ```
+Create `uploads` folder Inside the `server` folder:
+```bash
+mkdir uploads
+```
+👉 This folder is used to temporarily store uploaded files
 
 Run backend:
 
