@@ -85,6 +85,19 @@ npm start
 
 ---
 
+## Screenshots
+<img width="1348" height="664" alt="Capture22221" src="https://github.com/user-attachments/assets/891faefa-9d06-49a6-b746-8c2fa93e9bce" />
+
+
+<img width="1347" height="664" alt="Capture222222215" src="https://github.com/user-attachments/assets/9d6324e6-ad7a-4d8d-9a11-6d11253cbe09" />
+
+
+<img width="1354" height="647" alt="Capture222221547" src="https://github.com/user-attachments/assets/f57a9401-b9cd-4a59-9605-b999eb5e0520" />
+
+
+<img width="1348" height="649" alt="Capture222223658" src="https://github.com/user-attachments/assets/5e5aa8e1-cf87-4a4b-9a28-8d518a98a016" />
+
+
 ## 👩‍💻 Author
 
 Pranali Bamne  
